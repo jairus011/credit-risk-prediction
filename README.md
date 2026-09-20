@@ -4,10 +4,10 @@
   <img src="images/banner.png" alt="Credit Risk Prediction Banner" width="100%">
 </p>
 
-> **An end-to-end Machine Learning project that predicts customer creditworthiness using the German Credit Dataset through Logistic Regression, Decision Tree, and Random Forest classifiers.**
+> **An end-to-end machine-learning project for credit-risk assessment using the German Credit Dataset, with structured preprocessing, model comparison, and business-focused evaluation.**
 
-
-> **An end-to-end Machine Learning project that predicts customer creditworthiness using the German Credit Dataset through Logistic Regression, Decision Tree, and Random Forest classifiers.**
+**Status:** Complete ML case study · **Deployment:** Not currently deployed · **API:** None  
+See [PROJECT_STATUS.md](PROJECT_STATUS.md) for what works, deployment guidance, limitations, and next steps.
 
 <p align="center">
 
